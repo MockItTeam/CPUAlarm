@@ -10,8 +10,8 @@ namespace CPUAlarm
 {
     class Mailer
     {
-        private String from = "sarun.wo.tv@gmail.com";
-        private String to = "mapkabb@gmail.com";
+        private String from = "@gmail.com";
+        private String to = "@gmail.com";
         private SmtpClient smtp;
 
         public Mailer()
